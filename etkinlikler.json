@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T21:01:37+03:00",
+ "updatedAt": "2026-11-02T15:16:15+03:00",
  "events": [
   {
    "d": "2026-10-14",
@@ -223,6 +223,17 @@
    "approx": false
   },
   {
+   "d": "2026-11-25",
+   "t": "Ortaklık · OHAMR 2027 (antimikrobiyal direnç) çağrısı bilgi webinarı (beklenen)",
+   "w": "Çevrimiçi · ön duyuruda planlanan tarih · çağrı 18 Kasım’da açılıyor, ortak arama aracı açılışla birlikte",
+   "p": [
+    "ufuk"
+   ],
+   "u": "https://ohamr.eu/pre-announcment-call-to-advance-research-on-amr-transmission/",
+   "deadline": false,
+   "approx": true
+  },
+  {
    "d": "2026-11-26",
    "t": "Küme 1 · Sağlık Info Day (2027 çağrıları)",
    "w": "Çevrimiçi · Avrupa Komisyonu",
@@ -230,6 +241,28 @@
     "ufuk"
    ],
    "u": "https://research-innovation-community.ec.europa.eu/events/4kcNbd29FiAhBZf1wLeUr7/overview",
+   "deadline": false,
+   "approx": false
+  },
+  {
+   "d": "2026-11-26",
+   "t": "“Fikirden Etkiye” Ufuk Avrupa ulusal bilgi günü · Gaziantep",
+   "w": "Gaziantep, yüz yüze, 09:00–17:00 · TÜBİTAK ve Gaziantep Üniversitesi · ön kayıt formu, katılım e-posta onayıyla",
+   "p": [
+    "ufuk"
+   ],
+   "u": "https://ufukavrupa.org.tr/tr/haberler/fikirden-etkiye-ulusal-bilgi-gunlerimizin-yeni-rotasi-gaziantep-26-kasim-2026-fiziksel",
+   "deadline": false,
+   "approx": false
+  },
+  {
+   "d": "2026-11-27",
+   "t": "Yenilikçi Avrupa (EIC-EIT) bilgi günü · Gaziantep",
+   "w": "Gaziantep Üniversitesi Mühendislik Fakültesi, 09:30–12:15 · TÜBİTAK ve Gaziantep Teknopark · kayıt formu duyuruda",
+   "p": [
+    "ufuk"
+   ],
+   "u": "https://ufukavrupa.org.tr/tr/haberler/gaziantepte-yenilikci-avrupa-eic-eit-bilgi-gunu-27-kasim-2026",
    "deadline": false,
    "approx": false
   },
@@ -373,6 +406,17 @@
     "ufuk"
    ],
    "u": "https://ufukavrupa.org.tr/tr/haberler/erdera-2027-uluslararasi-ortak-cagrisinin-duyurusu-gerceklestirildi",
+   "deadline": false,
+   "approx": true
+  },
+  {
+   "d": "2027-02-01",
+   "t": "OHAMR 2027 ortak çağrısı ön başvuru son tarihi (beklenen)",
+   "w": "Ön duyuruda planlanan tarih, saat belirtilmemiş · tam başvuru 23 Haziran 2027 · kesin tarih çağrı metninde",
+   "p": [
+    "ufuk"
+   ],
+   "u": "https://ohamr.eu/pre-announcment-call-to-advance-research-on-amr-transmission/",
    "deadline": false,
    "approx": true
   },
