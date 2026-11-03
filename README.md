@@ -7,7 +7,7 @@ Selçuk Üniversitesi Araştırma Dekanlığı'nın **Ortak Pusulası** platform
 | `ortak-dizini.json` | Avrupa Komisyonu Funding & Tenders Portal'daki, şu an açık veya yakında açılacak çağrılara verilmiş ortak arama ilanları (herkese açık kaynak: EU Search API). |
 | `etkinlikler.json` | Ufuk Avrupa, Erasmus+, COST ve MSCA için eşleştirme (brokerage) etkinlikleri, bilgi günleri ve son başvuru tarihleri. |
 
-Dosyalar her pazartesi yenilenir; depo geçmişi tutulmaz (her güncelleme tek bir commit'tir). Platform sayfası bu dosyaları doğrudan buradan okur:
+Dosyalar her pazartesi yenilenir; her güncelleme ayrı bir commit olarak eklenir. Platform sayfası bu dosyaları doğrudan buradan okur:
 
 ```
 https://raw.githubusercontent.com/damatferidhash/ortak-pusulasi-veri/main/ortak-dizini.json
