@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T15:16:15+03:00",
+ "updatedAt": "2026-11-15T00:36:38+03:00",
  "events": [
   {
    "d": "2026-10-14",
@@ -157,6 +157,17 @@
    "approx": false
   },
   {
+   "d": "2026-11-13",
+   "t": "Ufuk Avrupa · Nitelikli ortaklıklar ve güçlü konsorsiyumlar eğitimi",
+   "w": "İstanbul Bilgi Üniversitesi santralİstanbul, yüz yüze, 13:00–17:00 · BİLGİ TTO ve TÜBİTAK · form ile kayıt, kontenjanlı",
+   "p": [
+    "ufuk"
+   ],
+   "u": "https://ufukavrupa.org.tr/tr/haberler/ufuk-avrupa-projeleri-nitelikli-ortakliklar-ve-guclu-konsorsiyumlar-egitimi-istanbul-13",
+   "deadline": false,
+   "approx": false
+  },
+  {
    "d": "2026-11-16",
    "t": "SBEP 2026 ortak çağrısı uluslararası başvuru son tarihi",
    "w": "Ulusal (TÜBİTAK) başvuru son tarihi 23 Kasım · saat için çağrı metnine bakın",
@@ -165,6 +176,17 @@
    ],
    "u": "https://ufukavrupa.org.tr/tr/haberler/hatirlatma-sbep-2026-cagrisi-ulusal-bilgi-gunune-kayitlar-devam-ediyor",
    "deadline": true,
+   "approx": false
+  },
+  {
+   "d": "2026-11-17",
+   "t": "Ortaklık · RCH (Dayanıklı Kültürel Miras) 2027 çağrısı uluslararası bilgi webinarı",
+   "w": "Çevrimiçi · çağrı sekreteryası · saat duyuruda belirtilmemiş · kayıt duyurudaki formdan",
+   "p": [
+    "ufuk"
+   ],
+   "u": "https://ufukavrupa.org.tr/tr/haberler/dayanikli-kulturel-miras-ortakligi-resilient-cultural-heritage-partnership-rch-2027-yili",
+   "deadline": false,
    "approx": false
   },
   {
@@ -201,6 +223,28 @@
    "approx": false
   },
   {
+   "d": "2026-11-19",
+   "t": "TÜBİTAK–NCRD (Ürdün) 2026 ortak proje çağrısı bilgi günü",
+   "w": "Çevrimiçi (Zoom), 13:30–14:30 (TSİ) · ikili işbirliği çağrısı · son başvuru duyuruda belirtilmemiş",
+   "p": [
+    "diger"
+   ],
+   "u": "https://ufukavrupa.org.tr/tr/haberler/ncrd-tubitak-2026-ortak-proje-cagrisi-bilgi-gunu",
+   "deadline": false,
+   "approx": false
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Ortaklık · ERDERA (nadir hastalıklar) paydaş forumu",
+   "w": "Ankara, yüz yüze, 09:00–12:30 · TÜBİTAK · ücretsiz, ön kayıt ve onay gerekli",
+   "p": [
+    "ufuk"
+   ],
+   "u": "https://ufukavrupa.org.tr/tr/haberler/erdera-paydas-forumu-23-kasim-2026-ankara",
+   "deadline": false,
+   "approx": false
+  },
+  {
    "d": "2026-11-24",
    "t": "Küme 1 · HNN 3.0 Sağlık brokerage (2027 çağrıları)",
    "w": "Çevrimiçi, 24–25 Kasım · kayıt 20 Kasım’a kadar · 26 Kasım’da Küme 1 Info Day",
@@ -220,6 +264,39 @@
    ],
    "u": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-marie-sklodowska-curie-actions/msca-doctoral-networks_en",
    "deadline": true,
+   "approx": false
+  },
+  {
+   "d": "2026-11-24",
+   "t": "Ortaklık · RCH 2027 çağrısı ulusal bilgi günü (TÜBİTAK 1071)",
+   "w": "Çevrimiçi (Zoom), 14:00–16:00 · TÜBİTAK · kayıt duyurudaki Zoom bağlantısından",
+   "p": [
+    "ufuk"
+   ],
+   "u": "https://ufukavrupa.org.tr/tr/haberler/dayanikli-kulturel-miras-ortakligi-resilient-cultural-heritage-partnership-rch-2027-yili",
+   "deadline": false,
+   "approx": false
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Araştırma güvenliği: “Avrupa araştırmalarını açık ve güvenli tutmak” etkinliği",
+   "w": "Çevrimiçi, 16:00–18:00 (TSİ) · INSPIRING ERA ve Avrupa Komisyonu · form ile kayıt",
+   "p": [
+    "ufuk"
+   ],
+   "u": "https://www.inspiring-era.eu/event/keeping-european-research-open-and-secure-making-research-security-work-in-practice/",
+   "deadline": false,
+   "approx": false
+  },
+  {
+   "d": "2026-11-25",
+   "t": "EIT HEI 2026 çağrısı bilgi oturumu",
+   "w": "Çevrimiçi (Teams), 13:00–14:15 (TSİ) · NCP4EIT · kayıt duyurudaki formdan",
+   "p": [
+    "ufuk"
+   ],
+   "u": "https://ufukavrupa.org.tr/tr/haberler/girisimcilik-tutkunlari-eit-hei-cagrisi-bilgi-gunu-25-kasim-2026-cevrim-ici",
+   "deadline": false,
    "approx": false
   },
   {
@@ -290,14 +367,14 @@
   },
   {
    "d": "2026-12-03",
-   "t": "EP PerMed · JTC2027 (Hücre ve Gen Tedavisi) bilgi günü (beklenen)",
-   "w": "Geçici tarih · çağrı 4 Kasım’da açılması planlanıyor · ortak arama: b2match.com/e/eppermed-partnering",
+   "t": "EP PerMed · JTC2027 (Hücre ve Gen Tedavisi) bilgi günü",
+   "w": "Çevrimiçi, 15:00–17:00 (CET) · çağrı 4 Kasım’da açıldı · ortak arama: b2match.com/e/eppermed-partnering",
    "p": [
     "ufuk"
    ],
-   "u": "https://www.eppermed.eu/funding-projects/calls/jtc2027/",
+   "u": "https://www.eppermed.eu/news-events/events/ep-permed-jtc2027-information-day/",
    "deadline": false,
-   "approx": true
+   "approx": false
   },
   {
    "d": "2026-12-14",
@@ -309,6 +386,17 @@
    "u": "https://ufukavrupa.org.tr/tr/haberler/erdera-2027-uluslararasi-ortak-cagrisinin-duyurusu-gerceklestirildi",
    "deadline": false,
    "approx": true
+  },
+  {
+   "d": "2026-12-14",
+   "t": "MSCA Staff Exchanges 2027 odak grup eğitimi",
+   "w": "İstanbul, yüz yüze, İngilizce · TÜBİTAK MSCA NCP · ön kayıt zorunlu, katılım e-posta onayıyla, kontenjanlı",
+   "p": [
+    "msca"
+   ],
+   "u": "https://ufukavrupa.org.tr/tr/haberler/ufuk-avrupa-marie-sklodowska-curie-alani-msca-degisim-programi-staff-exchanges-se-2027",
+   "deadline": false,
+   "approx": false
   },
   {
    "d": "2026-12-15",
@@ -324,12 +412,23 @@
   {
    "d": "2026-12-16",
    "t": "ERA / WIDERA 2027 brokerage",
-   "w": "Çevrimiçi, ücretsiz, kayıt zorunlu",
+   "w": "Çevrimiçi, 09:00–17:00 (TSİ) · NCP_WIDERA.NET · ücretsiz, kayıt zorunlu · ERA çağrısı 8 Aralık’ta açılıyor, son başvuru 11 Mart 2027",
    "p": [
     "ufuk"
    ],
    "u": "https://www.b2match.com/e/horizon-widera2027",
    "deadline": false,
+   "approx": false
+  },
+  {
+   "d": "2027-01-11",
+   "t": "RCH 2027 ortak çağrısı 1. aşama uluslararası son başvuru",
+   "w": "EPSS üzerinden, saat belirtilmemiş · TÜBİTAK PBS ulusal başvuru 14 Ocak 23:59 (TSİ) · 2. aşama 16 Haziran 2027",
+   "p": [
+    "ufuk"
+   ],
+   "u": "https://ufukavrupa.org.tr/tr/haberler/dayanikli-kulturel-miras-ortakligi-resilient-cultural-heritage-partnership-rch-2027-yili",
+   "deadline": true,
    "approx": false
   },
   {
@@ -378,14 +477,25 @@
   },
   {
    "d": "2027-01-20",
-   "t": "EP PerMed JTC2027 ön başvuru son tarihi (beklenen)",
-   "w": "14:00 (CET) · geçici tarih, kesin çağrı metni Kasım 2026’da · iki aşamalı çağrı",
+   "t": "EP PerMed JTC2027 (CGT4PM2027) ön başvuru son tarihi",
+   "w": "14:00 (CET) · PT-Outline üzerinden · tam başvuru 25 Mayıs 2027 · TÜBİTAK’a ulusal başvuru da gerekli",
    "p": [
     "ufuk"
    ],
    "u": "https://www.eppermed.eu/funding-projects/calls/jtc2027/",
+   "deadline": true,
+   "approx": false
+  },
+  {
+   "d": "2027-01-20",
+   "t": "Kanser Misyonu 2027 çağrıları · “Bridging the Horizon” çevrimiçi brokerage",
+   "w": "Çevrimiçi · UK Sağlık NCP’leri ve EIT · kayıt 13 Aralık’a kadar",
+   "p": [
+    "ufuk"
+   ],
+   "u": "https://www.go-eit.eu/eit-uk-hub/bridging-the-horizon-cancer-mission/",
    "deadline": false,
-   "approx": true
+   "approx": false
   },
   {
    "d": "2027-01-21",
@@ -421,6 +531,28 @@
    "approx": true
   },
   {
+   "d": "2027-02-25",
+   "t": "EIC Pathfinder Open 2027 son başvuru (1. aşama)",
+   "w": "İki aşamalı çağrı · saat için çağrı sayfasına bakın · EIC Accelerator kesim tarihleri 20 Ocak, 17 Mart, 1 Eylül, 4 Kasım 2027",
+   "p": [
+    "ufuk"
+   ],
+   "u": "https://ufukavrupa.org.tr/tr/haberler/eic-2027-calisma-programi-yayimlandi-yenilikler-19-kasimdaki-bilgi-gununde-tanitilacak",
+   "deadline": true,
+   "approx": false
+  },
+  {
+   "d": "2027-03-11",
+   "t": "WIDERA · ERA 2027 çağrısı son başvuru",
+   "w": "Çağrı 8 Aralık 2026’da açılıyor · saat için Funding & Tenders Portal’a bakın",
+   "p": [
+    "ufuk"
+   ],
+   "u": "https://ufukavrupa.org.tr/tr/haberler/ufuk-avrupa-widera-era-2027-cagrilari-brokerage-etkinligi-16-aralik-2026",
+   "deadline": true,
+   "approx": false
+  },
+  {
    "d": "2027-03-18",
    "t": "Küme 4 · Dijital 2027 çağrıları son başvuru",
    "w": "Çağrılar 17 Kasım 2026’da açılıyor · tarih organizatör (b2match ADT brokerage) sayfasından; Funding & Tenders Portal’da teyit edin",
@@ -441,6 +573,28 @@
    "u": "https://marie-sklodowska-curie-actions.ec.europa.eu/node/1503",
    "deadline": true,
    "approx": false
+  },
+  {
+   "d": "2027-04-07",
+   "t": "MSCA Postdoctoral Fellowships 2027 çağrısı (beklenen açılış)",
+   "w": "Gösterge tarih · son başvuru 8 Eylül 2027, 17:00 (CEST) planlanıyor · Funding & Tenders Portal’da teyit edin",
+   "p": [
+    "msca"
+   ],
+   "u": "https://www.ffg.at/en/europa/heu/msca/calls/PF_2027",
+   "deadline": false,
+   "approx": true
+  },
+  {
+   "d": "2027-04-15",
+   "t": "MSCA Staff Exchanges 2027 son başvuru (beklenen)",
+   "w": "17:00 (CEST) · TÜBİTAK duyurusu bu tarihi veriyor; resmi MSCA sayfasında hâlâ ‘TBC’",
+   "p": [
+    "msca"
+   ],
+   "u": "https://marie-sklodowska-curie-actions.ec.europa.eu/funding/msca-staff-exchanges-2027",
+   "deadline": false,
+   "approx": true
   }
  ]
 }
