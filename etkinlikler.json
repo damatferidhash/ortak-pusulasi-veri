@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T00:36:38+03:00",
+ "updatedAt": "2026-11-16T11:28:52+03:00",
  "events": [
   {
    "d": "2026-10-14",
@@ -366,6 +366,17 @@
    "approx": false
   },
   {
+   "d": "2026-12-02",
+   "t": "Ortaklık · Temiz Hidrojen Araştırma ve İnovasyon Günleri 2026",
+   "w": "Brüksel (Sofitel Brussels Europe), yüz yüze, 2–3 Aralık · Clean Hydrogen Partnership · kontenjanlı, EUSurvey ile kayıt · TÜBİTAK seyahat sonrası desteği mümkün",
+   "p": [
+    "ufuk"
+   ],
+   "u": "https://ufukavrupa.org.tr/tr/haberler/hidrojen-arastirma-ve-inovasyon-gunleri-2026-etkinligi-icin-kayitlar-basladi",
+   "deadline": false,
+   "approx": false
+  },
+  {
    "d": "2026-12-03",
    "t": "EP PerMed · JTC2027 (Hücre ve Gen Tedavisi) bilgi günü",
    "w": "Çevrimiçi, 15:00–17:00 (CET) · çağrı 4 Kasım’da açıldı · ortak arama: b2match.com/e/eppermed-partnering",
@@ -550,6 +561,17 @@
    ],
    "u": "https://ufukavrupa.org.tr/tr/haberler/ufuk-avrupa-widera-era-2027-cagrilari-brokerage-etkinligi-16-aralik-2026",
    "deadline": true,
+   "approx": false
+  },
+  {
+   "d": "2027-03-16",
+   "t": "Ortaklık · Waterborne Days 2027 (Avrupa Deniz Yolu Taşımacılığı Günleri)",
+   "w": "Brüksel (The EGG), yüz yüze, 16–17 Mart · Sıfır Emisyonlu Deniz Taşımacılığı Ortaklığı · kayıt duyurudaki formdan",
+   "p": [
+    "ufuk"
+   ],
+   "u": "https://ufukavrupa.org.tr/tr/haberler/2027-avrupa-deniz-yolu-tasimaciligi-gunleri",
+   "deadline": false,
    "approx": false
   },
   {
